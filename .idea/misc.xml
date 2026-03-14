@@ -6,7 +6,7 @@
         <PerGrammarGenerationSettings>
           <option name="fileName" value="$PROJECT_DIR$/src/statemodel/StateModel.g4" />
           <option name="autoGen" value="true" />
-          <option name="outputDir" value="E:\Egyetem\Modellalapu Szoftverfejlesztes\2024\Gyak\GY02\HF\StateModel kiinduló\StateModel\src" />
+          <option name="outputDir" value="C:\repos\homework1_antlr\src" />
           <option name="libDir" value="" />
           <option name="encoding" value="" />
           <option name="pkg" value="statemodel.generated" />
